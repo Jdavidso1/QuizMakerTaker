@@ -6,13 +6,13 @@ using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 using System.Globalization;
 
-namespace BuzzFeed
+namespace QuizMakerTaker
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //SqlConnection connection = new SqlConnection(@"Server=minecraft.lfgpgh.com;Database=buzzfeed_2;User Id=academy_student;Password=12345;" + "MultipleActiveResultSets=true;");
+            //SqlConnection connection = new SqlConnection( ... );
 
             //TO DO - needs classes and functions
             //TO DO - convert score to a percentage in take
@@ -21,7 +21,7 @@ namespace BuzzFeed
             //Comes in VERY handy for displaying the questions/answers in take-a-test mode 
             //Did a lot of test runs on personal tables so I didn't make a huge mess out of our database on the server
 
-            SqlConnection connection = new SqlConnection(@"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\WEEK6\Day26\Day26BuzzFeed\Day26\Database1.mdf;Integrated Security=True;" + "MultipleActiveResultSets=true;");
+            SqlConnection connection = new SqlConnection( ... );
 
             connection.Open();
 

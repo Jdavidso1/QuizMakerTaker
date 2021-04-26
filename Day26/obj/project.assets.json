@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JDAVI\\OneDrive\\Documents\\BACKUPS\\ACADEMYPGH\\PROJECTS\\Day26BuzzFeed\\Day26\\BuzzFeed.csproj",
-      "projectName": "BuzzFeed",
-      "projectPath": "C:\\Users\\JDAVI\\OneDrive\\Documents\\BACKUPS\\ACADEMYPGH\\PROJECTS\\Day26BuzzFeed\\Day26\\BuzzFeed.csproj",
+      "projectUniqueName": "C:\\Users\\JDAVI\\OneDrive\\Documents\\BACKUPS\\ACADEMYPGH\\PROJECTS\\BuzzFeed\\Day26\\QuizMakerTaker.csproj",
+      "projectName": "QuizMakerTaker",
+      "projectPath": "C:\\Users\\JDAVI\\OneDrive\\Documents\\BACKUPS\\ACADEMYPGH\\PROJECTS\\BuzzFeed\\Day26\\QuizMakerTaker.csproj",
       "packagesPath": "C:\\Users\\JDAVI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JDAVI\\OneDrive\\Documents\\BACKUPS\\ACADEMYPGH\\PROJECTS\\Day26BuzzFeed\\Day26\\obj\\",
+      "outputPath": "C:\\Users\\JDAVI\\OneDrive\\Documents\\BACKUPS\\ACADEMYPGH\\PROJECTS\\BuzzFeed\\Day26\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JDAVI\\AppData\\Roaming\\NuGet\\NuGet.Config",
